@@ -28,6 +28,7 @@ YouTube-Website-Clone/
 │
 ├── index.html
 ├── script.js
+├── README.md
 │
 ├── styles/
 │   ├── general.css
@@ -35,9 +36,14 @@ YouTube-Website-Clone/
 │   ├── sidebar.css
 │   └── video.css
 │
-├── images/
+├── channel-pictures/
+├── icons/
+├── thumbnails/
 │
-└── README.md
+├── intro-to-html/
+├── flexbox.html
+├── grid.html
+└── position.html
 ```
 
 ## 💻 JavaScript Functionality
@@ -57,6 +63,7 @@ JavaScript is used to add interactive features to the website:
 
 ```bash
 git clone https://github.com/Kanikakhurana18/YouTube-Website-Clone.git
+```
 
 2. Open the project folder in **VS Code**.
 
