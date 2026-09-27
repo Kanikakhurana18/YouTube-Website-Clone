@@ -75,6 +75,10 @@ git clone https://github.com/Kanikakhurana18/YouTube-Website-Clone.git
 
 This project is a frontend YouTube clone created for practicing **HTML, CSS, and JavaScript**, including DOM manipulation and event handling.
 
+## 🔗 Live Demo
+
+[YouTube Website Clone](https://kanikakhurana18.github.io/YouTube-Website-Clone/)
+
 ## 🔗 GitHub Repository
 
-[YouTube Website Clone](https://github.com/Kanikakhurana18/YouTube-Website-Clone)
+[GitHub Repository](https://github.com/Kanikakhurana18/YouTube-Website-Clone)
