@@ -27,3 +27,7 @@
 .sidebar-link div{
   font-size: 10px;
 }
+
+.hide-sidebar {
+    display: none;
+}
