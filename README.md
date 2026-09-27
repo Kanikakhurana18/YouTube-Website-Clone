@@ -24,7 +24,7 @@ The project recreates the basic layout and user interactions of YouTube, includi
 ## 📂 Project Structure
 
 ```text
-Youtube-website/
+YouTube-Website-Clone/
 │
 ├── index.html
 ├── script.js
@@ -56,8 +56,7 @@ JavaScript is used to add interactive features to the website:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Kanikakhurana18/Youtube-website.git
-```
+git clone https://github.com/Kanikakhurana18/YouTube-Website-Clone.git
 
 2. Open the project folder in **VS Code**.
 
@@ -71,4 +70,4 @@ This project is a frontend YouTube clone created for practicing **HTML, CSS, and
 
 ## 🔗 GitHub Repository
 
-[YouTube Website Clone](https://github.com/Kanikakhurana18/Youtube-website)
+[YouTube Website Clone](https://github.com/Kanikakhurana18/YouTube-Website-Clone)
